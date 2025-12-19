@@ -126,4 +126,3 @@ O arquivo **TP02-COMP10.pdf** contém:
 **Professor:** Marcelo Eustáquio
 **Disciplina:** Linguagens Formais, Autômatos e Compiladores — COMP10
 
-```
